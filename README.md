@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>Final-year Engineering Student · AI & Full-Stack Development</strong><br>
-  INSA Rouen Normandie · ENSA El Jadida
+  INSA Rouen Normandie x ENSA El Jadida
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ilyass-salim-el-qalb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohamed-ilyass-salim-el-qalb-92ab19247"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:salimelqalb.ilyass@gmail.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/medilyass37?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
