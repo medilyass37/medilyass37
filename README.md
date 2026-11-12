@@ -29,7 +29,7 @@ I build AI applications that connect models, data and user interfaces — from d
 
 | Project | What it does | Main technologies |
 | :--- | :--- | :--- |
-| [**CIRCET — Enterprise AI Assistant**](https://github.com/medilyass37/Assistant-IA-CIRCET) | Searches documents and streams answers with consultable source excerpts. | FastAPI · Qdrant · Llama 3.3 · Next.js |
+| [**AI Assistant**](https://github.com/medilyass37/Assistant-documentaire-RAG.git) | Searches documents and streams answers with consultable source excerpts. | FastAPI · Qdrant · Llama 3.3 · Next.js |
 | [**VoiceGuardAI**](https://github.com/medilyass37/VoiceGuardAI) | Connects an audio deepfake detection model to a web application. | PyTorch · Wav2Vec 2.0 · FastAPI · Spring Boot · React |
 | [**HR Assessment Management**](https://github.com/medilyass37/HR_Assessment_Management) | Creates employee assessments, collects responses and supports results review. | React · Express · MongoDB · JWT |
 | [**SimMongoDB**](https://github.com/medilyass37/SimMongoDB) | Visualizes sharding, replication and node failures in an educational simulator. | Python · FastAPI · React Flow |
