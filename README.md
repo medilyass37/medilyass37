@@ -21,9 +21,10 @@ I build AI applications that connect models, data and user interfaces — from d
 - 🔬 Focused on **Deep Learning, LLMs and Retrieval-Augmented Generation**.
 - 💼 Previous internships at **CIRCET Morocco** in **AI & Data** and **full-stack development**.
 - 🐄 Computer vision experience through **PICORNE**, an **INSA × INRAE** project for detecting bovine lesions with CNNs.
+- 🎮 Speaker experience at Morocco Gaming Expo (MGE Talks).
 - 🤝 Leadership experience as president of the **9th ENSAJ–Entreprises Forum**.
 
-**Looking for a six-month AI / Data / Software Engineering internship from mid-January 2027, anywhere in France.**
+**Looking for a six-month AI & Data / Software Engineering internship from mid-January 2027, anywhere in France.**
 
 ## 🚀 Selected projects
 
@@ -64,10 +65,6 @@ Also exploring mobile and web development with [CineHub](https://github.com/medi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🎓 Certifications
-
-- **AWS Academy Graduate:** Machine Learning Foundations · Cloud Foundations · Cloud Security Foundations
-- **Oracle Certified Professional:** Oracle Cloud Infrastructure 2025 Developer
 
 ## Beyond code
 
